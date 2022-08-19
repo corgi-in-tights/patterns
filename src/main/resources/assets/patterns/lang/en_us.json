@@ -1,0 +1,15 @@
+{
+  "itemGroup.patterns.main": "Patterns & Scrolls",
+  "item.patterns.pattern": "Unbound Pattern",
+  "item.patterns.pattern.bound": " Pattern",
+
+  "tooltip.patterns.unbound": "Interact to bind",
+
+  "tooltip.patterns.type": "%s",
+
+  "tooltip.patterns.count.block": "Mined %s/%s",
+  "tooltip.patterns.count.entity": "Killed %s/%s",
+
+  "tooltip.patterns.scroll": "%s",
+  "tooltip.patterns.no_scroll": "No scroll added"
+}
